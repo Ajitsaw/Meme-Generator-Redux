@@ -1,4 +1,4 @@
-# Meme Generator(Redux)
+# Meme Generator(React App, Redux Js)
 
 ## What is the use of this Repo
 
