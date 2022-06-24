@@ -9,7 +9,6 @@ export default function MemeMaker(props) {
 
     const memeList = useSelector(state => state.savedMemes.value)
     const darkmode = useSelector(state => state.darkState.value);
-    const valueAlert = useSelector(state => state.setAlert.value);
     
     const [meme, setMeme] = React.useState(
         {
