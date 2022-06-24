@@ -118,7 +118,6 @@ export default function MemeMaker(props) {
                         </div>
                     </div>
                 </div>
-
             </div>
         </section>
     )
